@@ -7,3 +7,12 @@ C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Deb
 C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.dll
 C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.pdb
 C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.csprojAssemblyReference.cache
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\bin\Debug\netcoreapp2.1\SecureResultCleanerLibrary.deps.json
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\bin\Debug\netcoreapp2.1\SecureResultCleanerLibrary.dll
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\bin\Debug\netcoreapp2.1\SecureResultCleanerLibrary.pdb
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.csprojAssemblyReference.cache
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.csproj.CoreCompileInputs.cache
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.AssemblyInfoInputs.cache
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.AssemblyInfo.cs
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.dll
+F:\NetProjects\TravellineTestTask\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.pdb

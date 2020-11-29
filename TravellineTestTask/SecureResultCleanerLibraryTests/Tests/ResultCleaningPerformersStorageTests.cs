@@ -23,23 +23,5 @@ namespace SecureResultCleanerLibraryTests
             // Assert
             Assert.Equal(urlPerformer, resultPerformer);
         }
-
-        [Fact]
-        public void ResultCleaningPerformersStorage_GetCleaningPerformer_StorageWithOnePerformer_ShowldResturnThisPerformer()
-        {
-            // Arrange
-            IResultCleaningPerformersStorage storage = new ResultCleaningPerformersStorage();
-
-            UrlPerformer urlPerformer = new UrlPerformer();
-
-            storage.RegisterNewClearingPerformer(urlPerformer);
-
-            // Act
-
-            IResultCleaningPerformer resultPerformer = storage.GetCleaningPerformer<UrlPerformer>();
-
-            // Assert
-            Assert.Equal(urlPerformer, resultPerformer);
-        }
     }
 }

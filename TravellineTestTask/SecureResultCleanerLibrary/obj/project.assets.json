@@ -735,11 +735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TravellineTestTask\\SecureResultCleanerLibrary\\SecureResultCleanerLibrary.csproj",
+      "projectUniqueName": "F:\\NetProjects\\TravellineTestTask\\TravellineTestTask\\SecureResultCleanerLibrary\\SecureResultCleanerLibrary.csproj",
       "projectName": "SecureResultCleanerLibrary",
-      "projectPath": "C:\\Users\\User\\source\\repos\\TravellineTestTask\\SecureResultCleanerLibrary\\SecureResultCleanerLibrary.csproj",
+      "projectPath": "F:\\NetProjects\\TravellineTestTask\\TravellineTestTask\\SecureResultCleanerLibrary\\SecureResultCleanerLibrary.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\TravellineTestTask\\SecureResultCleanerLibrary\\obj\\",
+      "outputPath": "F:\\NetProjects\\TravellineTestTask\\TravellineTestTask\\SecureResultCleanerLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

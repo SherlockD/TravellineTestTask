@@ -753,11 +753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TravellineTestTask\\TravellineTestTask\\TravellineTestTask.csproj",
+      "projectUniqueName": "F:\\NetProjects\\TravellineTestTask\\TravellineTestTask\\TravellineTestTask\\TravellineTestTask.csproj",
       "projectName": "TravellineTestTask",
-      "projectPath": "C:\\Users\\User\\source\\repos\\TravellineTestTask\\TravellineTestTask\\TravellineTestTask.csproj",
+      "projectPath": "F:\\NetProjects\\TravellineTestTask\\TravellineTestTask\\TravellineTestTask\\TravellineTestTask.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\TravellineTestTask\\TravellineTestTask\\obj\\",
+      "outputPath": "F:\\NetProjects\\TravellineTestTask\\TravellineTestTask\\TravellineTestTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -776,8 +776,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\TravellineTestTask\\SecureResultCleanerLibrary\\SecureResultCleanerLibrary.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\TravellineTestTask\\SecureResultCleanerLibrary\\SecureResultCleanerLibrary.csproj"
+            "F:\\NetProjects\\TravellineTestTask\\TravellineTestTask\\SecureResultCleanerLibrary\\SecureResultCleanerLibrary.csproj": {
+              "projectPath": "F:\\NetProjects\\TravellineTestTask\\TravellineTestTask\\SecureResultCleanerLibrary\\SecureResultCleanerLibrary.csproj"
             }
           }
         }
