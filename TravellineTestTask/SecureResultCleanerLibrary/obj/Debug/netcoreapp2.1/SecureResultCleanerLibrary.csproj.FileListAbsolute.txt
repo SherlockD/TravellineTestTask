@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\bin\Debug\netcoreapp2.1\SecureResultCleanerLibrary.deps.json
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\bin\Debug\netcoreapp2.1\SecureResultCleanerLibrary.dll
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\bin\Debug\netcoreapp2.1\SecureResultCleanerLibrary.pdb
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.dll
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.pdb
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibrary\obj\Debug\netcoreapp2.1\SecureResultCleanerLibrary.csprojAssemblyReference.cache

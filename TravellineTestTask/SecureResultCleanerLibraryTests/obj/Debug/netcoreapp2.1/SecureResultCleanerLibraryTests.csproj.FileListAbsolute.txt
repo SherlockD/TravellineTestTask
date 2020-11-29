@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.deps.json
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.runtimeconfig.json
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.runtimeconfig.dev.json
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.dll
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.pdb
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\obj\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\obj\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\obj\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\obj\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.AssemblyInfo.cs
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\obj\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.dll
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\obj\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.pdb
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\SecureResultCleanerLibrary.dll
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\bin\Debug\netcoreapp2.1\SecureResultCleanerLibrary.pdb
+C:\Users\User\source\repos\TravellineTestTask\SecureResultCleanerLibraryTests\obj\Debug\netcoreapp2.1\SecureResultCleanerLibraryTests.csproj.CopyComplete
