@@ -8,7 +8,7 @@ namespace SecureResultCleanerLibraryTests
     public class JsonPerformerTests
     {
         [Fact]
-        public void UrlPerformerTest_Clear_ClearOneFieldInUrl_FieldShouldClear()
+        public void UrlPerformerTest_Clear_ClearOneFieldInJson_FieldShouldClear()
         {
             // Arrange
             IResultCleaningPerformer jsonPerformer = new JsonPerformer();
