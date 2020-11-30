@@ -1,4 +1,5 @@
 ﻿using System.Text.RegularExpressions;
+using SecureResultCleanerLibrary.Sources.Extensions;
 
 namespace SecureResultCleanerLibrary.Sources.ResultCleanerSources.ResultCleaningPerformersStorageSources.Performers
 {
@@ -11,7 +12,7 @@ namespace SecureResultCleanerLibrary.Sources.ResultCleanerSources.ResultCleaning
 
             return Regex.Replace(inputResult, replacePattern, (match) =>
             {
-                return new string('X', match.Length);
+                return match.ToString().GetSecureString('X');
             });
         }
 
