@@ -1,6 +1,4 @@
-﻿using SecureResultCleanerLibrary.Sources.DataObjects;
-using SecureResultCleanerLibrary.Sources.ResultCleanerSources;
-using SecureResultCleanerLibrary.Sources.ResultCleanerSources.ResultCleaningPerformersStorageSources;
+﻿using SecureResultCleanerLibrary.Sources.ResultCleanerSources.ResultCleaningPerformersStorageSources;
 using SecureResultCleanerLibrary.Sources.ResultCleanerSources.ResultCleaningPerformersStorageSources.Performers;
 using System;
 
@@ -17,11 +15,7 @@ namespace TravellineTestTask
 
             RegisterPerformers();
 
-  
-
-            ISecureResultCleaner cleaner = new SecureResultCleaner<UrlPerformer, UrlPerformer, UrlPerformer>(_performersStorage, cleanKeys);
-
-            IResultCleaningPerformer jsonPerformer = _performersStorage.GetCleaningPerformer<JsonPerformer>();
+            _performersStorage.GetCleaningPerformer<XmlPerformer>();
 
             Console.ReadKey();
         }
@@ -30,6 +24,7 @@ namespace TravellineTestTask
         {
             _performersStorage.RegisterNewClearingPerformer(new UrlPerformer());
             _performersStorage.RegisterNewClearingPerformer(new JsonPerformer());
+            _performersStorage.RegisterNewClearingPerformer(new XmlPerformer());
         }
     }
 }

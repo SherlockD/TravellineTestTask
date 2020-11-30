@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using SecureResultCleanerLibrary.Sources.Exceptions;
 using SecureResultCleanerLibrary.Sources.ResultCleanerSources.ResultCleaningPerformersStorageSources.Performers;
 
 namespace SecureResultCleanerLibrary.Sources.ResultCleanerSources.ResultCleaningPerformersStorageSources
@@ -16,7 +17,7 @@ namespace SecureResultCleanerLibrary.Sources.ResultCleanerSources.ResultCleaning
             }
             else
             {
-                throw new Exception("Not registred!"); //TODO exception class
+                throw new PerformersStorageNotRegistredException(typeof(TCleaningPerformer));
             }
         }
 
